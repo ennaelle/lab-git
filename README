@@ -1,4 +1,5 @@
 README projet TP Git
+====================
 
 This directory contains the source code for U-Boot, a boot loader for
 Embedded boards based on PowerPC, ARM, MIPS and several other
@@ -20,6 +21,7 @@ load and run it dynamically.
 
 
 Status of documentation:
+========================
 
 In general, all boards for which a configuration option exists in the
 Makefile have been tested to some extent and can be considered
@@ -48,8 +50,8 @@ Please see http://lists.denx.de/pipermail/u-boot and
 http://dir.gmane.org/gmane.comp.boot-loaders.u-boot
 
 
-Where to get source code from git:
-==================================
+Where to get source code:
+=========================
 
 The U-Boot source code is maintained in the Git repository at
 git://www.denx.de/git/u-boot.git ; you can browse it online at
